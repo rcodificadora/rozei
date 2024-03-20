@@ -1,0 +1,14 @@
+C:\Users\wrkob\Desktop\tester\tester\tester\bin\Debug\net8.0\tester.exe
+C:\Users\wrkob\Desktop\tester\tester\tester\bin\Debug\net8.0\tester.deps.json
+C:\Users\wrkob\Desktop\tester\tester\tester\bin\Debug\net8.0\tester.runtimeconfig.json
+C:\Users\wrkob\Desktop\tester\tester\tester\bin\Debug\net8.0\tester.dll
+C:\Users\wrkob\Desktop\tester\tester\tester\bin\Debug\net8.0\tester.pdb
+C:\Users\wrkob\Desktop\tester\tester\tester\obj\Debug\net8.0\tester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wrkob\Desktop\tester\tester\tester\obj\Debug\net8.0\tester.AssemblyInfoInputs.cache
+C:\Users\wrkob\Desktop\tester\tester\tester\obj\Debug\net8.0\tester.AssemblyInfo.cs
+C:\Users\wrkob\Desktop\tester\tester\tester\obj\Debug\net8.0\tester.csproj.CoreCompileInputs.cache
+C:\Users\wrkob\Desktop\tester\tester\tester\obj\Debug\net8.0\tester.dll
+C:\Users\wrkob\Desktop\tester\tester\tester\obj\Debug\net8.0\refint\tester.dll
+C:\Users\wrkob\Desktop\tester\tester\tester\obj\Debug\net8.0\tester.pdb
+C:\Users\wrkob\Desktop\tester\tester\tester\obj\Debug\net8.0\tester.genruntimeconfig.cache
+C:\Users\wrkob\Desktop\tester\tester\tester\obj\Debug\net8.0\ref\tester.dll

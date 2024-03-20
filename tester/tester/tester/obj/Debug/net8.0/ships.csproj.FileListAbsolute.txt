@@ -1,0 +1,14 @@
+C:\Users\wrkob\Desktop\tester\tester\tester\bin\Debug\net8.0\ships.exe
+C:\Users\wrkob\Desktop\tester\tester\tester\bin\Debug\net8.0\ships.deps.json
+C:\Users\wrkob\Desktop\tester\tester\tester\bin\Debug\net8.0\ships.runtimeconfig.json
+C:\Users\wrkob\Desktop\tester\tester\tester\bin\Debug\net8.0\ships.dll
+C:\Users\wrkob\Desktop\tester\tester\tester\bin\Debug\net8.0\ships.pdb
+C:\Users\wrkob\Desktop\tester\tester\tester\obj\Debug\net8.0\ships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wrkob\Desktop\tester\tester\tester\obj\Debug\net8.0\ships.AssemblyInfoInputs.cache
+C:\Users\wrkob\Desktop\tester\tester\tester\obj\Debug\net8.0\ships.AssemblyInfo.cs
+C:\Users\wrkob\Desktop\tester\tester\tester\obj\Debug\net8.0\ships.csproj.CoreCompileInputs.cache
+C:\Users\wrkob\Desktop\tester\tester\tester\obj\Debug\net8.0\ships.dll
+C:\Users\wrkob\Desktop\tester\tester\tester\obj\Debug\net8.0\refint\ships.dll
+C:\Users\wrkob\Desktop\tester\tester\tester\obj\Debug\net8.0\ships.pdb
+C:\Users\wrkob\Desktop\tester\tester\tester\obj\Debug\net8.0\ships.genruntimeconfig.cache
+C:\Users\wrkob\Desktop\tester\tester\tester\obj\Debug\net8.0\ref\ships.dll
